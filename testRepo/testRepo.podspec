@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   #版本号
   spec.version      = '0.1.1'
   #开源协议
-  #spec.license      = 'MIT'
+  spec.license      = 'MIT'
   #对开源项目的描述
   spec.summary      = 'just test private repo'
   #开源项目的首页
